@@ -1,6 +1,6 @@
-! .[Horeiseon].(C:\Users\jaywh\OneDrive\Desktop\Horiseon.png)
+![Horeiseon](.\Mod1Chal\assets\images\Horiseon.png)
 
-# **Horiseon**
+# **Horiseon**   
 
 ## **Live Deployment Link**
 {/}
