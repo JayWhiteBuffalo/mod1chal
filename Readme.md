@@ -1,16 +1,16 @@
-![Horeiseon](.\Mod1Chal\assets\images\Horiseon.png)
+![Horeiseon](.\assets\images\Horiseon.png)
 
 # **Horiseon**   
 
 ## **Live Deployment Link**
-{/}
+https://jaywhitebuffalo.github.io/mod1chal/
 
 ## **Goals**
 
 The purpose of this webpag was to practice using best practices when it comes to accessibility, semantic naming conventions, and implementing Dry principles when writing css.
 
 ## **Devlopment Team**
-.Tyler Mason - JayWhiteBuffalo.(https://github.com/JayWhiteBuffalo)
+[Tyler Mason - JayWhiteBuffalo](https://github.com/JayWhiteBuffalo)
 
 ## **Project  Planning**
 
@@ -27,3 +27,5 @@ The purpose of this webpag was to practice using best practices when it comes to
         - THEN they fall in sequential order<br>
     - WHEN I view the title element<br>
         - THEN I find a concise, descriptive title<br>
+
+ 
